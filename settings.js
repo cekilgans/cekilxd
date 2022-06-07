@@ -23,16 +23,16 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.ownername = 'Cekil-MD' // Ganti Jadi Namamu
+  global.owner = ['629515023118'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '629515023118' // Owner Utama Istilahnya
+  global.botname = 'CekilBot-MD' // Ganti Jadi Nama Botmu
+  global.packname = 'CekilBot-MD' // Sticker Weem
+  global.author = 'CEKIL' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
+  global.youtube = 'https://instagram.com/cekilgans' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
 
@@ -56,14 +56,14 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
+  admin: '_Lu Admin Kah Dek? 🤨_',
   botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
+  owner: '_Soa6 Lu Bukan Owner Gw Deck😜_',
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
   wait: '_Sabar Sedang Di Proses ..._',
-  done: '_Done Ngab 🤗_',
+  done: '_Done Kontol 😎_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
