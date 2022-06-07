@@ -25,7 +25,7 @@
   // Other
   global.ownername = 'Cekil-MD' // Ganti Jadi Namamu
   global.owner = ['629515023118'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '629515023118' // Owner Utama Istilahnya
+  global.ownernomer = '6289515023118' // Owner Utama Istilahnya
   global.botname = 'CekilBot-MD' // Ganti Jadi Nama Botmu
   global.packname = 'CekilBot-MD' // Sticker Weem
   global.author = 'CEKIL' // Sticker Weem
