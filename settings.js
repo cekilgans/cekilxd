@@ -29,11 +29,11 @@
   global.botname = 'CekilBot-MD' // Ganti Jadi Nama Botmu
   global.packname = 'CekilBot-MD' // Sticker Weem
   global.author = 'CEKIL' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
+  global.webme = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' // Ganti Sama Link Yt Mu
-  global.github = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' // Ganti Sama Link Github Mu
+  global.github = 'https://github.com/cekilgans' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/cekilgans' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
