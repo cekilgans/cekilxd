@@ -33,7 +33,7 @@
   global.linkgroup = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
+  global.github = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/cekilgans' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
